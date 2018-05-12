@@ -1,0 +1,38 @@
+_repo: Prose-Fancies--Second-Series-_14103
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Le Gallienne, Richard
+    aliases:
+    - LeGallienne, Richard
+    - Gallienne, Richard Le
+    birthdate: 1866
+    deathdate: 1947
+    gutenberg_agent_id: '246'
+    url: http://www.gutenberg.org/2009/agents/246
+    wikipedia: http://en.wikipedia.org/wiki/Richard_Le_Gallienne
+description: ''
+gutenberg_issued: '2004-11-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14103'
+  lccn: '12036164'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English essays'
+tableOfContents: A seventh-story heaven -- Spring by parcel post -- The great merry-go-round
+  -- The burial of Romeo and Juliet -- Variations upon whitebait -- The answer of
+  the rose -- About the securities -- The boom in yellow -- Letter to an unsuccessful
+  literary man -- A poet in the city -- Brown roses -- The donkey that loved a star
+  -- On loving one's enemies -- The dramatic art of life -- The arbitrary classification
+  of sex -- The fallacy of a nation -- The greatness of man -- Death and two friends
+  -- A seaport in the moon.
+title: Prose Fancies (Second Series)
+url: http://www.gutenberg.org/ebooks/14103
